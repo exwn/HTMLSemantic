@@ -1,5 +1,3 @@
-# HTMLSemantic - My Web Artifact 1.0
-
 <h1 align="center">HTMLSemantic - My Web Artifact 1.0</h1>
 
 ![HTML Semantic Screenshot](https://user-images.githubusercontent.com/74612832/172417254-7807a375-161a-48d8-897f-6238edd708b6.png)
@@ -10,10 +8,6 @@
 <p align="center">
 	<a href="https://html-semantic.vercel.app/">Demo Page</a>&nbsp;&nbsp;&nbsp;
 </p>
-
-## Contributing!
-
-Please follow [Contributing Guide](./CONTRIBUTING.md) before contributing.!
 
 ## License
 
